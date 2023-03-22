@@ -1,6 +1,7 @@
 ﻿namespace Tarefas.Endpoints;
 
 using Microsoft.EntityFrameworkCore;
+using Tarefas.Data;
 
 public static class TarefasEndpoints
 {

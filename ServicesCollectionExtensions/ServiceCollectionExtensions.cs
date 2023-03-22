@@ -1,6 +1,7 @@
 ﻿namespace Microsoft.Extensions.DependencyInjection;
 using Microsoft.Data.Sqlite;
 using Microsoft.OpenApi.Models;
+using Tarefas.Data;
 
 public static class ServiceCollectionExtensions
 {

@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+namespace Tarefas.Data;
 
 public class Tarefa
 {     
