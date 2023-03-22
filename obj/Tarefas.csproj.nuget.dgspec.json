@@ -51,23 +51,19 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0-rc.2.21480.5, )"
+              "version": "[8.0.0-preview.2.23128.3, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[6.0.0-rc.2.21480.5, )"
+              "version": "[8.0.0-preview.2.23128.3, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[6.0.0-rc.2.21480.5, )"
-            },
-            "MiniValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[0.3.0-pre.20210927201159.35, )"
+              "version": "[8.0.0-preview.2.23128.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.2, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
